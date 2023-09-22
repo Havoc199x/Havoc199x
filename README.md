@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Havoc199x
 - 👀 I’m interested in ... Cyber Security and Ethical Hacking
 - 🌱 I’m currently learning ... Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Havoc199x/Havoc199x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
